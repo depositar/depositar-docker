@@ -95,9 +95,11 @@ def check_solr_connection(retry=None):
 def init_db():
 
     db_command = ["ckan", "-c", ckan_ini, "db", "init"]
+    ark_db_command = ["ckan", "-c", ckan_ini, "ark", "initdb"]
     print("[prerun] Initializing or upgrading db - start")
     try:
         subprocess.check_output(db_command, stderr=subprocess.STDOUT)
+        subprocess.check_output(ark_db_command, stderr=subprocess.STDOUT)
         print("[prerun] Initializing or upgrading db - end")
     except subprocess.CalledProcessError as e:
         if "OperationalError" in e.output:
@@ -195,6 +197,45 @@ def create_sysadmin():
         print("[prerun] Made user {0} a sysadmin".format(name))
 
 
+def make_sysadmin_active():
+
+    name = os.environ.get("CKAN_SYSADMIN_NAME")
+
+    conn_str = os.environ.get("CKAN_SQLALCHEMY_URL")
+    if not conn_str:
+        print("[prerun] CKAN_SQLALCHEMY_URL not defined, not checking db")
+
+    connection = psycopg2.connect(conn_str)
+    cursor = connection.cursor()
+
+    print("[prerun] Making sysadmin active - start")
+    try:
+        sql = 'UPDATE "user" SET state = \'active\' WHERE name = \'{0}\';'.format(name)
+        cursor.execute(sql)
+        for notice in connection.notices:
+            print(notice)
+
+        connection.commit()
+
+        print("[prerun] Making sysadmin active - end")
+    except psycopg2.Error as e:
+        print("[prerun] Could not make sysadmin active")
+        print(str(e))
+
+    except subprocess.CalledProcessError as e:
+        if "OperationalError" in e.output:
+            print(e.output)
+            print("[prerun] Database not ready, waiting a bit before exit...")
+            time.sleep(5)
+            sys.exit(1)
+        else:
+            print(e.output)
+            raise e
+    finally:
+        cursor.close()
+        connection.close()
+
+
 if __name__ == "__main__":
 
     maintenance = os.environ.get("MAINTENANCE_MODE", "").lower() == "true"
@@ -203,10 +244,10 @@ if __name__ == "__main__":
         print("[prerun] Maintenance mode, skipping setup...")
     else:
         check_main_db_connection()
-        init_db()
         update_plugins()
+        init_db()
         check_datastore_db_connection()
         init_datastore_db()
         check_solr_connection()
         create_sysadmin()
-        
+        make_sysadmin_active()
