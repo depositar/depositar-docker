@@ -3,7 +3,7 @@ FROM depositar/ckan-base:release-data-depositar-io-py3.10
 # Install any extensions needed by your CKAN instance
 # See Dockerfile.dev for more details and examples
 
-ENV CKAN__PLUGINS="activity dcat depositar_iso639 data_depositario depositar_theme_rep_str depositar_theme ark citation wikidatakeyword showcase dcat_json_interface structured_data stats datastore resource_proxy datatables_view recline_view text_view image_view webpage_view recline_grid_view recline_map_view audio_view video_view pdf_view spatial_metadata spatial_query geo_view geojson_view wmts_view shp_view scheming_datasets envvars"
+ENV CKAN__PLUGINS="activity dcat depositar_iso639 data_depositario depositar_theme_rep_str depositar_theme ark citation wikidatakeyword showcase dcat_json_interface structured_data stats datastore resource_proxy datapusher_plus datatables_view recline_view text_view image_view webpage_view recline_grid_view recline_map_view audio_view video_view pdf_view spatial_metadata spatial_query geo_view geojson_view wmts_view shp_view scheming_datasets envvars"
 
 USER root
 
@@ -17,6 +17,7 @@ RUN pip3 install -e git+https://github.com/depositar/ckanext-data-depositario.gi
     # Install other required extesions
     pip3 install -r ${SRC_DIR}/ckanext-spatial/pip-requirements.txt && \
     pip3 install -r ${SRC_DIR}/ckanext-dcat/requirements.txt && \
+    pip3 install -r ${SRC_DIR}/datapusher-plus/requirements.txt && \
     # Update CKAN config
     ckan config-tool ${CKAN_INI} -f ${SRC_DIR}/ckanext-data-depositario/config/custom_options.ini && \
     ckan config-tool ${CKAN_INI} "ckan.plugins = ${CKAN__PLUGINS}" && \
@@ -30,6 +31,11 @@ RUN sed -i -e '/^\[app:main\]/a\\' -e '/^\[app:main\]/r '${SRC_DIR}'/ckanext-dat
 USER root
 
 RUN chown ckan:ckan-sys ${CKAN_INI}
+
+# Copy qsv 0.138.0 and Supervisor configuration for datapusher-plus
+RUN apt-get install --no-install-recommends -y uchardet
+COPY --chown=ckan-sys:ckan-sys qsvdp /usr/local/bin
+COPY setup/supervisor-ckan-worker.conf /etc/supervisord.d
 
 # Copy custom initialization scripts
 COPY --chown=ckan-sys:ckan-sys docker-entrypoint.d/* /docker-entrypoint.d/
