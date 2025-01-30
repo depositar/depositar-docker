@@ -4,22 +4,41 @@ volumes:
   solr_data:
   pip_cache:
   site_packages:
+  nginx_secrets:
 
 services:
 
   nginx:
-    build:
-      context: nginx/
-      dockerfile: Dockerfile
+    image: jonasal/nginx-certbot:latest
+    restart: unless-stopped
+    environment:
+      - CERTBOT_EMAIL=${CERTBOT_EMAIL}
     networks:
       - webnet
       - ckannet
     depends_on:
       ckan:
         condition: service_healthy
+    volumes:
+      - nginx_secrets:/etc/letsencrypt
+      - ./nginx/user_conf.d:/etc/nginx/user_conf.d
     ports:
+      - ${NGINX_PORT_HOST}:${NGINX_PORT}
       - "0.0.0.0:${NGINX_SSLPORT_HOST}:${NGINX_SSLPORT}"
-    
+
+  postfix:
+    image: boky/postfix
+    environment:
+      - POSTFIX_myhostname=${POSTFIX_myhostname}
+      - ALLOWED_SENDER_DOMAINS=${ALLOWED_SENDER_DOMAINS}
+    networks:
+      - ckannet
+    depends_on:
+      ckan:
+        condition: service_healthy
+    volumes:
+      - ./postfix/dkim-keys:/etc/opendkim/keys
+
   ckan:
     build:
       context: ckan/
