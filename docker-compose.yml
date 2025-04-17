@@ -109,6 +109,14 @@ services:
     restart: unless-stopped
     healthcheck:
       test: ["CMD", "redis-cli", "-e", "QUIT"]
+
+  maintenance:
+    build:
+      context: maintenance/
+    networks:
+      - webnet
+    environment:
+      - TIME=at the moment
     
 networks:
   webnet:
