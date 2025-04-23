@@ -9,7 +9,8 @@ volumes:
 services:
 
   nginx:
-    image: jonasal/nginx-certbot:latest
+    build:
+      context: nginx/
     restart: unless-stopped
     environment:
       - CERTBOT_EMAIL=${CERTBOT_EMAIL}
