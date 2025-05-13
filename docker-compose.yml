@@ -8,10 +8,22 @@ volumes:
 
 services:
 
+  ofelia:
+    image: mcuadros/ofelia:latest
+    depends_on:
+      - nginx
+    command: daemon --docker -f label=com.docker.compose.project=${COMPOSE_PROJECT_NAME}
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+
   nginx:
     build:
       context: nginx/
     restart: unless-stopped
+    labels:
+      ofelia.enabled: "true"
+      ofelia.job-exec.datecron.schedule: "0 3 * * *"
+      ofelia.job-exec.datecron.command: "/usr/local/sbin/update-ngxblocker"
     environment:
       - CERTBOT_EMAIL=${CERTBOT_EMAIL}
     networks:
