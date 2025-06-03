@@ -19,7 +19,7 @@ jobs:
     -  name: Set up Docker Buildx
        uses: docker/setup-buildx-action@v1
        with:
-          driver: docker # defaults to "docker-containerized"
+          driver: docker # defaults to "docker-container"
       
     -  name: Set up QEMU
        uses: docker/setup-qemu-action@v1
@@ -40,7 +40,7 @@ jobs:
           push: false
           tags: kowhai/ckan-docker-postgresql:test-build-only
 
-    -  name: maintenance Build
+    -  name: Maintenance build
        uses: docker/build-push-action@v2
        with:
           context: ./maintenance
@@ -53,6 +53,8 @@ jobs:
        with:
           repository: depositar/ckan-docker-base
           path: ckan-docker-base
+
+    # From https://github.com/ckan/ckan-docker-base/blob/main/.github/workflows/reusable-build-and-test.yml
 
     - name: Read version from VERSION file
       run: |
