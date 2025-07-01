@@ -6,4 +6,3 @@
 {"action":"resource_patch","data":{"id":"851f6f13-73db-407c-8cba-7ad1bf453b12"},"files":{"upload":"./data/sample_data.kml"}}
 {"action":"resource_patch","data":{"id":"57e3da70-c7b1-4cb5-98fd-a528b4853b36"},"files":{"upload":"./data/sample_data.html"}}
 {"action":"resource_patch","data":{"id":"5ac7312e-e071-46ff-9854-0da9aba2c56d"},"files":{"upload":"./data/sample_data.pdf"}}
-{"action":"resource_patch","data":{"id":"2d013e42-acb8-41b1-b513-33dc0efb8e74"},"files":{"upload":"./data/sample_data.svg"}}

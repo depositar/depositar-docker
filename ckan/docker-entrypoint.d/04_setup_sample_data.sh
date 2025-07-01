@@ -4,10 +4,8 @@ export PATH=$PATH:/srv/app/.local/bin
 
 cd /srv/app/sample-data
 
-ckan user add demo email=demo@localhost password=demo1234
+ckanapi load organizations -I organizations.jsonl --upload-logo
 
-ckanapi load organizations -I organizations.jsonl -u demo --upload-logo
-
-ckanapi load datasets -I datasets.jsonl -u demo
+ckanapi load datasets -I datasets.jsonl
 
 ckanapi batch -I upload-files.jsonl --local-files
