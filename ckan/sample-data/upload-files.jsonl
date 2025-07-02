@@ -1,8 +1,8 @@
-{"action":"resource_patch","data":{"id":"3fb9bd92-82e8-42e1-ab5f-3ecd9a56de34"},"files":{"upload":"./data/sample_data.zip"}}
-{"action":"resource_patch","data":{"id":"44502a81-295e-4e58-977a-c7aec778fc91"},"files":{"upload":"./data/sample_data.geojson"}}
-{"action":"resource_patch","data":{"id":"d992cb46-bd70-426e-8b5b-14b0fff2a942"},"files":{"upload":"./data/sample_data.csv"}}
-{"action":"resource_patch","data":{"id":"a8811a68-c6fb-49ca-8944-45c91f379bd7"},"files":{"upload":"./data/sample_data.xml"}}
-{"action":"resource_patch","data":{"id":"51ca2530-408c-4234-b558-5baf054cdf3f"},"files":{"upload":"./data/sample_data.json"}}
-{"action":"resource_patch","data":{"id":"851f6f13-73db-407c-8cba-7ad1bf453b12"},"files":{"upload":"./data/sample_data.kml"}}
-{"action":"resource_patch","data":{"id":"57e3da70-c7b1-4cb5-98fd-a528b4853b36"},"files":{"upload":"./data/sample_data.html"}}
-{"action":"resource_patch","data":{"id":"5ac7312e-e071-46ff-9854-0da9aba2c56d"},"files":{"upload":"./data/sample_data.pdf"}}
+{"action":"resource_create","data":{"package_id":"sample-dataset-1","format":"GeoJSON","name":"海巡署臺、澎、金、馬地區各安檢所及海巡隊地址 GeoJSON 格式"},"files":{"upload":"./data/sample_data.geojson"}}
+{"action":"resource_create","data":{"package_id":"sample-dataset-1","format":"CSV","name":"海巡署臺、澎、金、馬地區各安檢所及海巡隊地址 CSV 格式"},"files":{"upload":"./data/sample_data.csv"}}
+{"action":"resource_create","data":{"package_id":"sample-dataset-1","format":"XML","name":"海巡署臺、澎、金、馬地區各安檢所及海巡隊地址 XML 格式"},"files":{"upload":"./data/sample_data.xml"}}
+{"action":"resource_create","data":{"package_id":"sample-dataset-1","format":"JSON","name":"海巡署臺、澎、金、馬地區各安檢所及海巡隊地址 JSON 格式"},"files":{"upload":"./data/sample_data.json"}}
+{"action":"resource_create","data":{"package_id":"sample-dataset-2","format":"SHP","name":"直轄市、縣市界線 (TWD97 經緯度) SHP 格式"},"files":{"upload":"./data/sample_data.zip"}}
+{"action":"resource_create","data":{"package_id":"sample-dataset-3","format":"KML","name":"臺北市河川區域線 KML 格式"},"files":{"upload":"./data/sample_data.kml"}}
+{"action":"resource_create","data":{"package_id":"sample-dataset-4","format":"HTML","name":"[Webinar Video] What is Research Data Management and How Can the depositar Help?","description":"Source:  [2024-12 \\[Webinar\\] What is Research Data Management and how can the depositar help? ](https://data.depositar.io/en/dataset/2024-12-what-is-research-data-management-and-how-can-the-depositar-help)\r\n\r\nThis video is from the online webinar \"What is Research Data Management, and how can the depositar help?\" organized by the depositar lab on December 12, 2024.\r\nThe complete webinar video recording: \"What is Research Data Management and How Can the *depositar* Help?\" For viewing directly from the web browser, and with closed caption, please visit YouTube link: https://youtu.be/zxBd-CihNBs?si=TdlCRee8eu5XSNEI"},"files":{"upload":"./data/sample_data.html"}}
+{"action":"resource_create","data":{"package_id":"sample-dataset-4","format":"PDF","name":"[Poster] What is Research Data Management and how can the depositar help?","description":"Source: [2024-12 \\[Webinar\\] What is Research Data Management and how can the depositar help? ](https://data.depositar.io/en/dataset/2024-12-what-is-research-data-management-and-how-can-the-depositar-help)"},"files":{"upload":"./data/sample_data.pdf"}}
