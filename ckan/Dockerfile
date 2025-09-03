@@ -46,6 +46,8 @@ COPY --chown=ckan-sys:ckan-sys docker-entrypoint.d/* /docker-entrypoint.d/
 # runtime mounted ones)
 COPY --chown=ckan-sys:ckan-sys patches ${APP_DIR}/patches
 
+COPY --chown=ckan-sys:ckan-sys sample-data ${APP_DIR}/sample-data
+
 USER ckan
 
 RUN for d in $APP_DIR/patches/*; do \

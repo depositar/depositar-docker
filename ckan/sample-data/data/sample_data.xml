@@ -1,0 +1,2280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table>
+    <row>
+        <Col1 name='項目'>1</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>第1海巡隊</Col3>
+        <Col4 name='郵遞區號'>20248</Col4>
+        <Col5 name='地址'>基隆市中正路249號</Col5>
+        <Col6 name='X座標'>121.761581</Col6>
+        <Col7 name='Y座標'>25.144291</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>2</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>第2海巡隊</Col3>
+        <Col4 name='郵遞區號'>25155</Col4>
+        <Col5 name='地址'>新北市淡水區觀海路251號</Col5>
+        <Col6 name='X座標'>121.408762</Col6>
+        <Col7 name='Y座標'>25.184337</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>3</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>第3海巡隊</Col3>
+        <Col4 name='郵遞區號'>43650</Col4>
+        <Col5 name='地址'>台中市清水區北堤路1-2號</Col5>
+        <Col6 name='X座標'>120.539022</Col6>
+        <Col7 name='Y座標'>24.289952</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>4</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>第4海巡隊</Col3>
+        <Col4 name='郵遞區號'>70259</Col4>
+        <Col5 name='地址'>台南市南區鯤鯓路601號</Col5>
+        <Col6 name='X座標'>120.164504</Col6>
+        <Col7 name='Y座標'>22.966378</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>5</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>第5海巡隊</Col3>
+        <Col4 name='郵遞區號'>80544</Col4>
+        <Col5 name='地址'>高雄市旗津區北汕巷50-72號</Col5>
+        <Col6 name='X座標'>120.289233</Col6>
+        <Col7 name='Y座標'>22.587914</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>6</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>第6海巡隊</Col3>
+        <Col4 name='郵遞區號'>97060</Col4>
+        <Col5 name='地址'>花蓮市順興路43號</Col5>
+        <Col6 name='X座標'>121.628193</Col6>
+        <Col7 name='Y座標'>23.991983</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>7</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>第7海巡隊</Col3>
+        <Col4 name='郵遞區號'>27046</Col4>
+        <Col5 name='地址'>宜蘭縣蘇澳鎮港區路7之1號</Col5>
+        <Col6 name='X座標'>121.58511</Col6>
+        <Col7 name='Y座標'>24.595913</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>8</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>第8海巡隊</Col3>
+        <Col4 name='郵遞區號'>88056</Col4>
+        <Col5 name='地址'>澎湖縣馬公市大案山里19鄰大案山200號</Col5>
+        <Col6 name='X座標'>119.573302</Col6>
+        <Col7 name='Y座標'>23.563267</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>9</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>第9海巡隊</Col3>
+        <Col4 name='郵遞區號'>89141</Col4>
+        <Col5 name='地址'>金門縣金湖鎮料羅港1號</Col5>
+        <Col6 name='X座標'>118.436297</Col6>
+        <Col7 name='Y座標'>24.411066</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>10</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>第10海巡隊</Col3>
+        <Col4 name='郵遞區號'>20941</Col4>
+        <Col5 name='地址'>連江縣南竿鄉福沃村8鄰138號</Col5>
+        <Col6 name='X座標'>119.939562</Col6>
+        <Col7 name='Y座標'>23.154435</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>11</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>分署本部</Col3>
+        <Col4 name='郵遞區號'>25155</Col4>
+        <Col5 name='地址'>新北市淡水區中正路1段63巷20號</Col5>
+        <Col6 name='X座標'>121.55945</Col6>
+        <Col7 name='Y座標'>24.994978</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>12</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>第12海巡隊</Col3>
+        <Col4 name='郵遞區號'>30057</Col4>
+        <Col5 name='地址'>新竹市新港南路99號</Col5>
+        <Col6 name='X座標'>120.920021</Col6>
+        <Col7 name='Y座標'>24.845985</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>13</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>第13海巡隊</Col3>
+        <Col4 name='郵遞區號'>62541</Col4>
+        <Col5 name='地址'>嘉義縣布袋鎮順安路79巷2號</Col5>
+        <Col6 name='X座標'>120.156177</Col6>
+        <Col7 name='Y座標'>23.379983</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>14</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>第14海巡隊</Col3>
+        <Col4 name='郵遞區號'>94645</Col4>
+        <Col5 name='地址'>屏東縣恆春鎮後壁湖路96巷67號</Col5>
+        <Col6 name='X座標'>120.742674</Col6>
+        <Col7 name='Y座標'>21.945012</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>15</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>第15海巡隊</Col3>
+        <Col4 name='郵遞區號'>95057</Col4>
+        <Col5 name='地址'>台東市富岡街296之1號</Col5>
+        <Col6 name='X座標'>121.191549</Col6>
+        <Col7 name='Y座標'>22.791847</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>16</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>第16海巡隊</Col3>
+        <Col4 name='郵遞區號'>22844</Col4>
+        <Col5 name='地址'>新北市貢寮區新港街128號</Col5>
+        <Col6 name='X座標'>121.926801</Col6>
+        <Col7 name='Y座標'>25.056084</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>17</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>直屬船隊</Col3>
+        <Col4 name='郵遞區號'>85243</Col4>
+        <Col5 name='地址'>高雄市茄萣區崎漏里正遠路1號</Col5>
+        <Col6 name='X座標'>120.202496</Col6>
+        <Col7 name='Y座標'>22.868787</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>18</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>北部地區機動海巡隊</Col3>
+        <Col4 name='郵遞區號'>24941</Col4>
+        <Col5 name='地址'>新北市八里區廈竹圍7-9號</Col5>
+        <Col6 name='X座標'>121.38605</Col6>
+        <Col7 name='Y座標'>25.152216</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>19</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>中部地區機動海巡隊</Col3>
+        <Col4 name='郵遞區號'>43650</Col4>
+        <Col5 name='地址'>台中市清水區北堤路1-3號</Col5>
+        <Col6 name='X座標'>120.523923</Col6>
+        <Col7 name='Y座標'>24.292395</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>20</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>南部地區機動海巡隊</Col3>
+        <Col4 name='郵遞區號'>80444</Col4>
+        <Col5 name='地址'>高雄市鼓山區蓬萊路32號</Col5>
+        <Col6 name='X座標'>120.279336</Col6>
+        <Col7 name='Y座標'>22.620377</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>21</Col1>
+        <Col2 name='地區'>海巡署艦隊分署</Col2>
+        <Col3 name='名稱'>東部地區機動海巡隊</Col3>
+        <Col4 name='郵遞區號'>97048</Col4>
+        <Col5 name='地址'>花蓮縣花蓮市北濱街31號</Col5>
+        <Col6 name='X座標'>121.614489</Col6>
+        <Col7 name='Y座標'>23.97458</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>22</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>清水安檢所</Col3>
+        <Col4 name='郵遞區號'>26846</Col4>
+        <Col5 name='地址'>宜蘭縣五結鄉季新村季水路93號</Col5>
+        <Col6 name='X座標'>121.83565</Col6>
+        <Col7 name='Y座標'>24.6927</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>23</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>蘇澳安檢所</Col3>
+        <Col4 name='郵遞區號'>27042</Col4>
+        <Col5 name='地址'>宜蘭縣蘇澳鎮港區路50號</Col5>
+        <Col6 name='X座標'>121.86878</Col6>
+        <Col7 name='Y座標'>24.58655</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>24</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>南興安檢所</Col3>
+        <Col4 name='郵遞區號'>27043</Col4>
+        <Col5 name='地址'>宜蘭縣蘇澳鎮跨港路156號</Col5>
+        <Col6 name='X座標'>121.86644</Col6>
+        <Col7 name='Y座標'>24.5858</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>25</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>粉鳥林安檢所</Col3>
+        <Col4 name='郵遞區號'>27091</Col4>
+        <Col5 name='地址'>宜蘭縣蘇澳鎮東澳里粉鳥林1號</Col5>
+        <Col6 name='X座標'>121.84212</Col6>
+        <Col7 name='Y座標'>24.49776</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>26</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>南澳漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>27095</Col4>
+        <Col5 name='地址'>宜蘭縣蘇澳鎮朝陽里朝陽路1-1號</Col5>
+        <Col6 name='X座標'>121.81955</Col6>
+        <Col7 name='Y座標'>24.46158</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>27</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>大里安檢所</Col3>
+        <Col4 name='郵遞區號'>26145</Col4>
+        <Col5 name='地址'>宜蘭縣頭城鎮大里里大里路115之4號</Col5>
+        <Col6 name='X座標'>121.92156</Col6>
+        <Col7 name='Y座標'>24.96336</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>28</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>大溪漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>26145</Col4>
+        <Col5 name='地址'>宜蘭縣頭城鎮大溪里濱海路5段492號</Col5>
+        <Col6 name='X座標'>121.90329</Col6>
+        <Col7 name='Y座標'>24.94247</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>29</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>梗枋安檢所</Col3>
+        <Col4 name='郵遞區號'>26144</Col4>
+        <Col5 name='地址'>宜蘭縣頭城鎮更新里濱海路三段292號</Col5>
+        <Col6 name='X座標'>121.8703</Col6>
+        <Col7 name='Y座標'>24.90748</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>30</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>大福村安檢所</Col3>
+        <Col4 name='郵遞區號'>26341</Col4>
+        <Col5 name='地址'>宜蘭縣壯圍鄉大福村壯濱路6段156巷7號</Col5>
+        <Col6 name='X座標'>121.81799</Col6>
+        <Col7 name='Y座標'>24.79578</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>31</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>龜山島安檢所</Col3>
+        <Col4 name='郵遞區號'>26145</Col4>
+        <Col5 name='地址'>宜蘭縣頭城鎮龜山鄉龜山村龜山路1號</Col5>
+        <Col6 name='X座標'>121.9438</Col6>
+        <Col7 name='Y座標'>24.84368</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>32</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>烏石漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>26143</Col4>
+        <Col5 name='地址'>宜蘭縣頭城鎮港口里港墘路300號</Col5>
+        <Col6 name='X座標'>121.83444</Col6>
+        <Col7 name='Y座標'>24.86291</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>33</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>第一(岳明)機動巡邏站</Col3>
+        <Col4 name='郵遞區號'>27047</Col4>
+        <Col5 name='地址'>宜蘭縣蘇澳鎮港邊里4鄰嶺腳路71-2號</Col5>
+        <Col6 name='X座標'>121.85342</Col6>
+        <Col7 name='Y座標'>24.61343</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>34</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>第二(合興)機動巡邏站</Col3>
+        <Col4 name='郵遞區號'>26145</Col4>
+        <Col5 name='地址'>宜蘭縣頭城鎮合興里濱海路4段50號</Col5>
+        <Col6 name='X座標'>121.88319</Col6>
+        <Col7 name='Y座標'>24.91795</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>35</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>南雅漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>22451</Col4>
+        <Col5 name='地址'>新北市瑞芳區南雅里南雅路89號之8</Col5>
+        <Col6 name='X座標'>121.88684</Col6>
+        <Col7 name='Y座標'>25.12154</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>36</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>鼻頭安檢所</Col3>
+        <Col4 name='郵遞區號'>22451</Col4>
+        <Col5 name='地址'>新北市瑞芳區鼻頭里鼻頭路97號之1</Col5>
+        <Col6 name='X座標'>121.91608</Col6>
+        <Col7 name='Y座標'>25.1243</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>37</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>龍洞安檢所</Col3>
+        <Col4 name='郵遞區號'>22842</Col4>
+        <Col5 name='地址'>新北市貢寮區龍洞街35-6號</Col5>
+        <Col6 name='X座標'>121.91338</Col6>
+        <Col7 name='Y座標'>25.1165</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>38</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>澳底漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>22844</Col4>
+        <Col5 name='地址'>新北市貢寮區真理里新港街122號</Col5>
+        <Col6 name='X座標'>121.92746</Col6>
+        <Col7 name='Y座標'>25.05799</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>39</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>馬崗安檢所</Col3>
+        <Col4 name='郵遞區號'>22841</Col4>
+        <Col5 name='地址'>新北市貢寮區福連里馬崗街22號</Col5>
+        <Col6 name='X座標'>122.00264</Col6>
+        <Col7 name='Y座標'>25.01414</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>40</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>深澳安檢所</Col3>
+        <Col4 name='郵遞區號'>22447</Col4>
+        <Col5 name='地址'>新北市瑞芳區深澳路189-9號</Col5>
+        <Col6 name='X座標'>121.82079</Col6>
+        <Col7 name='Y座標'>25.13479</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>41</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>長潭里安檢所</Col3>
+        <Col4 name='郵遞區號'>20248</Col4>
+        <Col5 name='地址'>基隆市中正區北寧路369巷66號</Col5>
+        <Col6 name='X座標'>121.80138</Col6>
+        <Col7 name='Y座標'>25.14141</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>42</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>八斗子安檢所</Col3>
+        <Col4 name='郵遞區號'>20248</Col4>
+        <Col5 name='地址'>基隆市中正區漁港一街9號</Col5>
+        <Col6 name='X座標'>121.79151</Col6>
+        <Col7 name='Y座標'>25.14568</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>43</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>碧砂漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>20248</Col4>
+        <Col5 name='地址'>基隆市中正區北寧路213-20號</Col5>
+        <Col6 name='X座標'>121.78735</Col6>
+        <Col7 name='Y座標'>25.14604</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>44</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>正濱漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>20246</Col4>
+        <Col5 name='地址'>基隆市中正區和一路232號</Col5>
+        <Col6 name='X座標'>121.7627</Col6>
+        <Col7 name='Y座標'>25.15526</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>45</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>基隆商港安檢所</Col3>
+        <Col4 name='郵遞區號'>20248</Col4>
+        <Col5 name='地址'>基隆市中正區中正路249號</Col5>
+        <Col6 name='X座標'>121.76134</Col6>
+        <Col7 name='Y座標'>25.14467</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>46</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>外木山安檢所</Col3>
+        <Col4 name='郵遞區號'>20345</Col4>
+        <Col5 name='地址'>基隆市中山區協和街211-3號</Col5>
+        <Col6 name='X座標'>121.73399</Col6>
+        <Col7 name='Y座標'>25.16085</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>47</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>大武崙漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>20446</Col4>
+        <Col5 name='地址'>基隆市安樂區湖海路2段186號</Col5>
+        <Col6 name='X座標'>121.70695</Col6>
+        <Col7 name='Y座標'>25.16687</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>48</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>基隆嶼安檢所</Col3>
+        <Col4 name='郵遞區號'>20248</Col4>
+        <Col5 name='地址'>基隆市中正區基隆嶼8號</Col5>
+        <Col6 name='X座標'>121.78438</Col6>
+        <Col7 name='Y座標'>25.19122</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>49</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>彭佳嶼機動巡邏站</Col3>
+        <Col4 name='郵遞區號'>20248</Col4>
+        <Col5 name='地址'>基隆市中正區彭佳嶼10號</Col5>
+        <Col6 name='X座標'>121.7704</Col6>
+        <Col7 name='Y座標'>25.16249</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>50</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>萬里漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>20745</Col4>
+        <Col5 name='地址'>新北市萬里區獅頭路15-3號</Col5>
+        <Col6 name='X座標'>121.69782</Col6>
+        <Col7 name='Y座標'>25.18153</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>51</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>龜吼漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>20744</Col4>
+        <Col5 name='地址'>新北市萬里區翡翠里漁澳路85-3號</Col5>
+        <Col6 name='X座標'>121.68895</Col6>
+        <Col7 name='Y座標'>25.19723</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>52</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>野柳安檢所</Col3>
+        <Col4 name='郵遞區號'>20744</Col4>
+        <Col5 name='地址'>新北市萬里區野柳里港東路72-2號</Col5>
+        <Col6 name='X座標'>121.68812</Col6>
+        <Col7 name='Y座標'>25.20535</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>53</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>磺港安檢所</Col3>
+        <Col4 name='郵遞區號'>20844</Col4>
+        <Col5 name='地址'>新北市金山區磺港路24-5號</Col5>
+        <Col6 name='X座標'>121.64981</Col6>
+        <Col7 name='Y座標'>25.23038</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>54</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>石門安檢所</Col3>
+        <Col4 name='郵遞區號'>25343</Col4>
+        <Col5 name='地址'>新北市石門區中央路37-1號</Col5>
+        <Col6 name='X座標'>121.56857</Col6>
+        <Col7 name='Y座標'>25.29955</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>55</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>富基漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>25342</Col4>
+        <Col5 name='地址'>新北市石門區楓林路15-1號</Col5>
+        <Col6 name='X座標'>121.53466</Col6>
+        <Col7 name='Y座標'>25.29454</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>56</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>第一(金山)機動巡邏站</Col3>
+        <Col4 name='郵遞區號'>20741</Col4>
+        <Col5 name='地址'>新北市萬里區大鵬里加投路301之6號</Col5>
+        <Col6 name='X座標'>121.64655</Col6>
+        <Col7 name='Y座標'>25.22081</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>57</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>第二(福隆)機動巡邏站</Col3>
+        <Col4 name='郵遞區號'>22841</Col4>
+        <Col5 name='地址'>新北市貢寮區福隆里東興街2號</Col5>
+        <Col6 name='X座標'>121.95238</Col6>
+        <Col7 name='Y座標'>25.02152</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>58</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>麟山鼻安檢所</Col3>
+        <Col4 name='郵遞區號'>25341</Col4>
+        <Col5 name='地址'>新北市石門區德茂里1鄰下員坑15-15號</Col5>
+        <Col6 name='X座標'>121.51065</Col6>
+        <Col7 name='Y座標'>25.28442</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>59</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>後厝安檢所</Col3>
+        <Col4 name='郵遞區號'>25242</Col4>
+        <Col5 name='地址'>新北市三芝區錫板里海尾14-34號</Col5>
+        <Col6 name='X座標'>121.47531</Col6>
+        <Col7 name='Y座標'>25.25748</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>60</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>淡水第二漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>25155</Col4>
+        <Col5 name='地址'>新北市淡水區觀海路251號</Col5>
+        <Col6 name='X座標'>121.40879</Col6>
+        <Col7 name='Y座標'>25.18471</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>61</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>台北商港安檢所</Col3>
+        <Col4 name='郵遞區號'>24941</Col4>
+        <Col5 name='地址'>新北市八里區廈竹圍7之9號</Col5>
+        <Col6 name='X座標'>121.39082</Col6>
+        <Col7 name='Y座標'>25.15151</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>62</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>下罟子安檢所</Col3>
+        <Col4 name='郵遞區號'>24941</Col4>
+        <Col5 name='地址'>新北市八里區下罟子街2鄰16-9號</Col5>
+        <Col6 name='X座標'>121.38084</Col6>
+        <Col7 name='Y座標'>25.14225</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>63</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>下福安檢所</Col3>
+        <Col4 name='郵遞區號'>24442</Col4>
+        <Col5 name='地址'>新北市林口區下福里10鄰135號</Col5>
+        <Col6 name='X座標'>121.29582</Col6>
+        <Col7 name='Y座標'>25.1217</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>64</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>竹圍安檢所</Col3>
+        <Col4 name='郵遞區號'>33748</Col4>
+        <Col5 name='地址'>桃園市大園區沙崙里漁港路537巷10號</Col5>
+        <Col6 name='X座標'>121.2429</Col6>
+        <Col7 name='Y座標'>25.11815</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>65</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>永安漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>32744</Col4>
+        <Col5 name='地址'>桃園市新屋區新港路36號</Col5>
+        <Col6 name='X座標'>121.01628</Col6>
+        <Col7 name='Y座標'>24.99002</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>66</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>蚵二安檢所</Col3>
+        <Col4 name='郵遞區號'>32745</Col4>
+        <Col5 name='地址'>桃園市新屋區蚵殼港56號</Col5>
+        <Col6 name='X座標'>120.98692</Col6>
+        <Col7 name='Y座標'>24.93985</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>67</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>坡頭漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>30446</Col4>
+        <Col5 name='地址'>新竹縣新豐鄉坡頭村1鄰2之3-14號</Col5>
+        <Col6 name='X座標'>120.97429</Col6>
+        <Col7 name='Y座標'>24.92644</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>68</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>新港里安檢所</Col3>
+        <Col4 name='郵遞區號'>30263</Col4>
+        <Col5 name='地址'>新竹縣竹北市新港里10鄰10號</Col5>
+        <Col6 name='X座標'>120.93831</Col6>
+        <Col7 name='Y座標'>24.85295</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>69</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>新竹安檢所</Col3>
+        <Col4 name='郵遞區號'>30058</Col4>
+        <Col5 name='地址'>新竹市新港南路101號</Col5>
+        <Col6 name='X座標'>120.91966</Col6>
+        <Col7 name='Y座標'>24.84904</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>70</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>海山安檢所</Col3>
+        <Col4 name='郵遞區號'>30094</Col4>
+        <Col5 name='地址'>新竹市香山區海山港路26號</Col5>
+        <Col6 name='X座標'>120.90586</Col6>
+        <Col7 name='Y座標'>24.76449</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>71</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>第二(尚義)機動巡邏站</Col3>
+        <Col4 name='郵遞區號'>30287</Col4>
+        <Col5 name='地址'>新竹縣竹北市尚義里15鄰尚義街125號</Col5>
+        <Col6 name='X座標'>120.95522</Col6>
+        <Col7 name='Y座標'>24.89709</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>72</Col1>
+        <Col2 name='地區'>海巡署北部分署</Col2>
+        <Col3 name='名稱'>第一(竹圍)機動巡邏站</Col3>
+        <Col4 name='郵遞區號'>33748</Col4>
+        <Col5 name='地址'>桃園市大園區西濱路一段78巷58號</Col5>
+        <Col6 name='X座標'>121.24004</Col6>
+        <Col7 name='Y座標'>25.11294</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>73</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>龍鳳安檢所</Col3>
+        <Col4 name='郵遞區號'>350</Col4>
+        <Col5 name='地址'>苗栗縣竹南鎮龍鳳里龍江街359巷5號</Col5>
+        <Col6 name='X座標'>120.85912</Col6>
+        <Col7 name='Y座標'>27.7008</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>74</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>塭仔頭安檢所</Col3>
+        <Col4 name='郵遞區號'>350</Col4>
+        <Col5 name='地址'>苗栗縣竹南鎮港墘里塭仔頭28之6號</Col5>
+        <Col6 name='X座標'>120.84353</Col6>
+        <Col7 name='Y座標'>24.66758</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>75</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>外埔安檢所</Col3>
+        <Col4 name='郵遞區號'>356</Col4>
+        <Col5 name='地址'>苗栗縣後龍鎮海埔里8鄰125-15號</Col5>
+        <Col6 name='X座標'>120.77224</Col6>
+        <Col7 name='Y座標'>24.6493</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>76</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>公司寮安檢所</Col3>
+        <Col4 name='郵遞區號'>356</Col4>
+        <Col5 name='地址'>苗栗縣後龍鎮龍津里公司寮1-3號</Col5>
+        <Col6 name='X座標'>120.75707</Col6>
+        <Col7 name='Y座標'>24.61336</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>77</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>白沙屯安檢所</Col3>
+        <Col4 name='郵遞區號'>357</Col4>
+        <Col5 name='地址'>苗栗縣通霄鎮白東里5-1號</Col5>
+        <Col6 name='X座標'>120.70726</Col6>
+        <Col7 name='Y座標'>24.57222</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>78</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>通霄安檢所</Col3>
+        <Col4 name='郵遞區號'>357</Col4>
+        <Col5 name='地址'>苗栗縣通霄鎮通霄里漁港路69號</Col5>
+        <Col6 name='X座標'>120.67409</Col6>
+        <Col7 name='Y座標'>24.4997</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>79</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>苑裡安檢所</Col3>
+        <Col4 name='郵遞區號'>358</Col4>
+        <Col5 name='地址'>苗栗縣苑裡鎮海岸里36-6號</Col5>
+        <Col6 name='X座標'>120.63388</Col6>
+        <Col7 name='Y座標'>24.44766</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>80</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>松柏港安檢所</Col3>
+        <Col4 name='郵遞區號'>437</Col4>
+        <Col5 name='地址'>台中市大甲區順帆路233號</Col5>
+        <Col6 name='X座標'>120.61732</Col6>
+        <Col7 name='Y座標'>24.42892</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>81</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>溫寮安檢所</Col3>
+        <Col4 name='郵遞區號'>439</Col4>
+        <Col5 name='地址'>台中市大安區中山北路一巷53號</Col5>
+        <Col6 name='X座標'>120.58371</Col6>
+        <Col7 name='Y座標'>24.37246</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>82</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>梧棲安檢所</Col3>
+        <Col4 name='郵遞區號'>436</Col4>
+        <Col5 name='地址'>台中市清水區北堤路21號</Col5>
+        <Col6 name='X座標'>120.51768</Col6>
+        <Col7 name='Y座標'>24.2935</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>83</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>台中商港安檢所</Col3>
+        <Col4 name='郵遞區號'>436</Col4>
+        <Col5 name='地址'>臺中市清水區北四路168號</Col5>
+        <Col6 name='X座標'>120.53802</Col6>
+        <Col7 name='Y座標'>24.2886</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>84</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>麗水安檢所</Col3>
+        <Col4 name='郵遞區號'>434</Col4>
+        <Col5 name='地址'>台中市龍井區麗水里10鄰三港路水里港巷61-5號</Col5>
+        <Col6 name='X座標'>120.4954</Col6>
+        <Col7 name='Y座標'>24.20013</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>85</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>防潮門安檢所</Col3>
+        <Col4 name='郵遞區號'>509</Col4>
+        <Col5 name='地址'>彰化縣伸港鄉全興村西全路167巷111之1</Col5>
+        <Col6 name='X座標'>120.48723</Col6>
+        <Col7 name='Y座標'>24.18387</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>86</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>塭仔安檢所</Col3>
+        <Col4 name='郵遞區號'>507</Col4>
+        <Col5 name='地址'>彰化縣線西鄉塭仔村漁港路1236號</Col5>
+        <Col6 name='X座標'>120.43835</Col6>
+        <Col7 name='Y座標'>24.12599</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>87</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>崙尾灣安檢所</Col3>
+        <Col4 name='郵遞區號'>505</Col4>
+        <Col5 name='地址'>彰化縣鹿港鎮顏厝小段530-17地號</Col5>
+        <Col6 name='X座標'>120.41809</Col6>
+        <Col7 name='Y座標'>24.08062</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>88</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>王功安檢所</Col3>
+        <Col4 name='郵遞區號'>528</Col4>
+        <Col5 name='地址'>彰化縣芳苑鄉王功村漁港路968號</Col5>
+        <Col6 name='X座標'>120.32553</Col6>
+        <Col7 name='Y座標'>23.9684</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>89</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>芳苑安檢所</Col3>
+        <Col4 name='郵遞區號'>528</Col4>
+        <Col5 name='地址'>彰化縣芳苑鄉芳中村光明路80號</Col5>
+        <Col6 name='X座標'>120.31507</Col6>
+        <Col7 name='Y座標'>23.92875</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>90</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>三豐安檢所</Col3>
+        <Col4 name='郵遞區號'>527</Col4>
+        <Col5 name='地址'>彰化縣大城鄉三豐村和平路30之1號</Col5>
+        <Col6 name='X座標'>120.28968</Col6>
+        <Col7 name='Y座標'>23.88257</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>91</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>第一機動巡邏站(鹿港)</Col3>
+        <Col4 name='郵遞區號'>50549</Col4>
+        <Col5 name='地址'>彰化縣鹿港鎮新宮里媽祖路39號</Col5>
+        <Col6 name='X座標'>120.42557</Col6>
+        <Col7 name='Y座標'>24.05796</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>92</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>第二機動巡邏站(中港)</Col3>
+        <Col4 name='郵遞區號'>43964</Col4>
+        <Col5 name='地址'>臺中市大安區五甲北路10巷100號</Col5>
+        <Col6 name='X座標'>120.59373</Col6>
+        <Col7 name='Y座標'>24.4025</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>93</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>第三機動巡邏站(龍港)</Col3>
+        <Col4 name='郵遞區號'>35668</Col4>
+        <Col5 name='地址'>苗栗縣後龍鎮龍津里87之5號</Col5>
+        <Col6 name='X座標'>120.74406</Col6>
+        <Col7 name='Y座標'>24.66216</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>94</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>許厝寮安檢所</Col3>
+        <Col4 name='郵遞區號'>638</Col4>
+        <Col5 name='地址'>雲林縣麥寮鄉台塑工業園區4號</Col5>
+        <Col6 name='X座標'>120.22636</Col6>
+        <Col7 name='Y座標'>23.81846</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>95</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>麥寮工業港安檢所</Col3>
+        <Col4 name='郵遞區號'>638</Col4>
+        <Col5 name='地址'>雲林縣麥寮鄉三盛村台塑工業園區1號</Col5>
+        <Col6 name='X座標'>120.16709</Col6>
+        <Col7 name='Y座標'>23.76658</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>96</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>蚊港安檢所</Col3>
+        <Col4 name='郵遞區號'>636</Col4>
+        <Col5 name='地址'>雲林縣台西鄉新興海埔地1路12號</Col5>
+        <Col6 name='X座標'>120.18021</Col6>
+        <Col7 name='Y座標'>23.75519</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>97</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>五條港安檢所</Col3>
+        <Col4 name='郵遞區號'>636</Col4>
+        <Col5 name='地址'>雲林縣台西鄉五港村中央路1000號</Col5>
+        <Col6 name='X座標'>120.17183</Col6>
+        <Col7 name='Y座標'>23.72214</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>98</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>台西安檢所</Col3>
+        <Col4 name='郵遞區號'>636</Col4>
+        <Col5 name='地址'>雲林縣台西鄉台興段251號</Col5>
+        <Col6 name='X座標'>120.1983</Col6>
+        <Col7 name='Y座標'>23.70438</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>99</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>三條崙安檢所</Col3>
+        <Col4 name='郵遞區號'>654</Col4>
+        <Col5 name='地址'>雲林縣四湖鄉海清路299-1號</Col5>
+        <Col6 name='X座標'>120.15096</Col6>
+        <Col7 name='Y座標'>23.65904</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>100</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>箔子寮安檢所</Col3>
+        <Col4 name='郵遞區號'>653</Col4>
+        <Col5 name='地址'>雲林縣口湖鄉下崙村漁港路370號</Col5>
+        <Col6 name='X座標'>120.13995</Col6>
+        <Col7 name='Y座標'>23.61947</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>101</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>金湖安檢所</Col3>
+        <Col4 name='郵遞區號'>653</Col4>
+        <Col5 name='地址'>雲林縣口湖鄉港溪村養漁路100號</Col5>
+        <Col6 name='X座標'>120.14748</Col6>
+        <Col7 name='Y座標'>23.57512</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>102</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>台子村安檢所</Col3>
+        <Col4 name='郵遞區號'>653</Col4>
+        <Col5 name='地址'>雲林縣口湖鄉台興路260號</Col5>
+        <Col6 name='X座標'>120.13988</Col6>
+        <Col7 name='Y座標'>23.5608</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>103</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>下湖口安檢所</Col3>
+        <Col4 name='郵遞區號'>653</Col4>
+        <Col5 name='地址'>雲林縣口湖鄉湖口村湖口250號</Col5>
+        <Col6 name='X座標'>120.15021</Col6>
+        <Col7 name='Y座標'>23.53421</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>104</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>副瀨安檢所</Col3>
+        <Col4 name='郵遞區號'>614</Col4>
+        <Col5 name='地址'>嘉義縣東石鄉副瀨村副瀨87-26號</Col5>
+        <Col6 name='X座標'>120.16918</Col6>
+        <Col7 name='Y座標'>23.49223</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>105</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>型厝安檢所</Col3>
+        <Col4 name='郵遞區號'>614</Col4>
+        <Col5 name='地址'>嘉義縣東石鄉型厝村型厝安檢所</Col5>
+        <Col6 name='X座標'>120.14772</Col6>
+        <Col7 name='Y座標'>23.47547</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>106</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>塭港安檢所</Col3>
+        <Col4 name='郵遞區號'>614</Col4>
+        <Col5 name='地址'>嘉義縣東石鄉塭港村19 鄰52之50 號</Col5>
+        <Col6 name='X座標'>120.14665</Col6>
+        <Col7 name='Y座標'>23.466</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>107</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>東石安檢所</Col3>
+        <Col4 name='郵遞區號'>614</Col4>
+        <Col5 name='地址'>嘉義縣東石鄉東石村觀海一路161號</Col5>
+        <Col6 name='X座標'>120.13963</Col6>
+        <Col7 name='Y座標'>23.45248</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>108</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>網寮安檢所</Col3>
+        <Col4 name='郵遞區號'>614</Col4>
+        <Col5 name='地址'>嘉義縣東石鄉網寮村59-10號</Col5>
+        <Col6 name='X座標'>120.14845</Col6>
+        <Col7 name='Y座標'>23.43846</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>109</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>白水湖安檢所</Col3>
+        <Col4 name='郵遞區號'>614</Col4>
+        <Col5 name='地址'>嘉義縣東石鄉掌潭村白水湖63-1號</Col5>
+        <Col6 name='X座標'>120.15698</Col6>
+        <Col7 name='Y座標'>23.43982</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>110</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>布袋安檢所</Col3>
+        <Col4 name='郵遞區號'>625</Col4>
+        <Col5 name='地址'>嘉義縣布袋鎮興中里後寮路202號</Col5>
+        <Col6 name='X座標'>120.15472</Col6>
+        <Col7 name='Y座標'>23.3883</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>111</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>布袋商港安檢所</Col3>
+        <Col4 name='郵遞區號'>625</Col4>
+        <Col5 name='地址'>嘉義縣布袋鎮岑海里海興街2號</Col5>
+        <Col6 name='X座標'>120.1475</Col6>
+        <Col7 name='Y座標'>23.37762</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>112</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>好美里安檢所</Col3>
+        <Col4 name='郵遞區號'>625</Col4>
+        <Col5 name='地址'>嘉義縣布袋鎮好美里虎尾寮169-1號</Col5>
+        <Col6 name='X座標'>120.12624</Col6>
+        <Col7 name='Y座標'>23.34098</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>113</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>第一機動巡邏站(麥寮)</Col3>
+        <Col4 name='郵遞區號'>63801</Col4>
+        <Col5 name='地址'>雲林縣麥寮鄉台塑工業園區4號</Col5>
+        <Col6 name='X座標'>120.1917</Col6>
+        <Col7 name='Y座標'>23.78812</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>114</Col1>
+        <Col2 name='地區'>海巡署中部分署</Col2>
+        <Col3 name='名稱'>第二機動巡邏站(東石)</Col3>
+        <Col4 name='郵遞區號'>61441</Col4>
+        <Col5 name='地址'>嘉義縣東石鄉彩霞大道400號</Col5>
+        <Col6 name='X座標'>120.13361</Col6>
+        <Col7 name='Y座標'>23.45209</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>115</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>柴山安檢所</Col3>
+        <Col4 name='郵遞區號'>80441</Col4>
+        <Col5 name='地址'>高雄市鼓山區柴山93-1號</Col5>
+        <Col6 name='X座標'>120.25262</Col6>
+        <Col7 name='Y座標'>22.64556</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>116</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>一港口安檢所</Col3>
+        <Col4 name='郵遞區號'>80444</Col4>
+        <Col5 name='地址'>高雄市鼓山區哨船街2-1號</Col5>
+        <Col6 name='X座標'>120.26686</Col6>
+        <Col7 name='Y座標'>22.61774</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>117</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>高雄商檢所、第二機動巡邏站(壽麓)</Col3>
+        <Col4 name='郵遞區號'>80444</Col4>
+        <Col5 name='地址'>高雄市鼓山一路107號</Col5>
+        <Col6 name='X座標'>120.27856</Col6>
+        <Col7 name='Y座標'>22.62749</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>118</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>旗后安檢所</Col3>
+        <Col4 name='郵遞區號'>80541</Col4>
+        <Col5 name='地址'>高雄市旗津區海岸路28號</Col5>
+        <Col6 name='X座標'>120.26797</Col6>
+        <Col7 name='Y座標'>22.6157</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>119</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>中興商檢所</Col3>
+        <Col4 name='郵遞區號'>80544</Col4>
+        <Col5 name='地址'>高雄市旗津區北汕巷50-72號5樓</Col5>
+        <Col6 name='X座標'>120.28595</Col6>
+        <Col7 name='Y座標'>22.59292</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>120</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>中和安檢所</Col3>
+        <Col4 name='郵遞區號'>80546</Col4>
+        <Col5 name='地址'>高雄市旗津區旗津一路3號</Col5>
+        <Col6 name='X座標'>120.31649</Col6>
+        <Col7 name='Y座標'>22.555</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>121</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>第一機動巡邏站(鳳鼻頭)</Col3>
+        <Col4 name='郵遞區號'>81261</Col4>
+        <Col5 name='地址'>高雄市小港區南星路107號</Col5>
+        <Col6 name='X座標'>120.358</Col6>
+        <Col7 name='Y座標'>22.51344</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>122</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>鳳鼻頭漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>81264</Col4>
+        <Col5 name='地址'>高雄市小港區鳳鳴里16鄰南星路107號</Col5>
+        <Col6 name='X座標'>120.35913</Col6>
+        <Col7 name='Y座標'>22.50905</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>123</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>蚵寮漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>72742</Col4>
+        <Col5 name='地址'>台南市北門區雙春里8鄰雙春73-20號</Col5>
+        <Col6 name='X座標'>120.10246</Col6>
+        <Col7 name='Y座標'>23.31947</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>124</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>蘆竹溝漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>72744</Col4>
+        <Col5 name='地址'>台南市北門區三光里蘆竹溝372-15號</Col5>
+        <Col6 name='X座標'>120.09544</Col6>
+        <Col7 name='Y座標'>23.23331</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>125</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>第二機動巡邏站(文山)</Col3>
+        <Col4 name='郵遞區號'>72744</Col4>
+        <Col5 name='地址'>台南市北門區文山里溪底寮55-5號</Col5>
+        <Col6 name='X座標'>120.12953</Col6>
+        <Col7 name='Y座標'>23.24123</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>126</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>將軍漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>72549</Col4>
+        <Col5 name='地址'>台南市將軍區平沙里13鄰平沙150號</Col5>
+        <Col6 name='X座標'>120.08394</Col6>
+        <Col7 name='Y座標'>23.21356</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>127</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>青山漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>72550</Col4>
+        <Col5 name='地址'>台南市將軍區鯤鯓里7鄰鯤鯓286-20號</Col5>
+        <Col6 name='X座標'>120.07068</Col6>
+        <Col7 name='Y座標'>23.18531</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>128</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>下山漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>72447</Col4>
+        <Col5 name='地址'>台南市七股區龍山里210號</Col5>
+        <Col6 name='X座標'>120.093</Col6>
+        <Col7 name='Y座標'>23.13849</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>129</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>北堤安檢所</Col3>
+        <Col4 name='郵遞區號'>72453</Col4>
+        <Col5 name='地址'>台南市七股區海埔11-30號</Col5>
+        <Col6 name='X座標'>120.05237</Col6>
+        <Col7 name='Y座標'>23.11378</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>130</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>曾文溪安檢所</Col3>
+        <Col4 name='郵遞區號'>70956</Col4>
+        <Col5 name='地址'>台南市安南區城西街3段1070-10號</Col5>
+        <Col6 name='X座標'>120.07782</Col6>
+        <Col7 name='Y座標'>23.05675</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>131</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>四草漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>70965</Col4>
+        <Col5 name='地址'>台南市安南區北汕尾一路439巷72弄656號</Col5>
+        <Col6 name='X座標'>120.11167</Col6>
+        <Col7 name='Y座標'>23.02347</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>132</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>鹿耳門安檢所</Col3>
+        <Col4 name='郵遞區號'>70955</Col4>
+        <Col5 name='地址'>台南巿安南區四草大道81巷401弄18號</Col5>
+        <Col6 name='X座標'>120.12743</Col6>
+        <Col7 name='Y座標'>23.00672</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>133</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>安平漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>70841</Col4>
+        <Col5 name='地址'>台南市安平區安港路1號</Col5>
+        <Col6 name='X座標'>120.14974</Col6>
+        <Col7 name='Y座標'>22.98924</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>134</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>安平商港安檢所</Col3>
+        <Col4 name='郵遞區號'>70841</Col4>
+        <Col5 name='地址'>台南市安平區漁光路300號</Col5>
+        <Col6 name='X座標'>120.15131</Col6>
+        <Col7 name='Y座標'>22.98814</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>135</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>第一機動巡邏站(茄萣)</Col3>
+        <Col4 name='郵遞區號'>85241</Col4>
+        <Col5 name='地址'>高雄市茄萣區萬福里福德路252號</Col5>
+        <Col6 name='X座標'>120.18072</Col6>
+        <Col7 name='Y座標'>22.91371</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>136</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>白砂崙安檢所</Col3>
+        <Col4 name='郵遞區號'>85241</Col4>
+        <Col5 name='地址'>高雄市茄萣區福德里白沙路475巷120號</Col5>
+        <Col6 name='X座標'>120.18118</Col6>
+        <Col7 name='Y座標'>22.91541</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>137</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>興達港安檢所</Col3>
+        <Col4 name='郵遞區號'>85243</Col4>
+        <Col5 name='地址'>高雄市茄萣區大發路1號</Col5>
+        <Col6 name='X座標'>120.19487</Col6>
+        <Col7 name='Y座標'>22.86449</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>138</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>崎漏安檢所</Col3>
+        <Col4 name='郵遞區號'>85243</Col4>
+        <Col5 name='地址'>高雄市茄萣區興達路1-10號</Col5>
+        <Col6 name='X座標'>120.1965</Col6>
+        <Col7 name='Y座標'>22.86189</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>139</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>永新漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>82842</Col4>
+        <Col5 name='地址'>高雄市永安區新興路27號</Col5>
+        <Col6 name='X座標'>120.20798</Col6>
+        <Col7 name='Y座標'>22.82139</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>140</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>彌陀安檢所</Col3>
+        <Col4 name='郵遞區號'>82744</Col4>
+        <Col5 name='地址'>高雄市彌陀區南寮里漁港一街62號</Col5>
+        <Col6 name='X座標'>120.23378</Col6>
+        <Col7 name='Y座標'>22.76208</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>141</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>蚵子寮安檢所</Col3>
+        <Col4 name='郵遞區號'>82646</Col4>
+        <Col5 name='地址'>高雄市梓官區廣澤路100號</Col5>
+        <Col6 name='X座標'>120.25315</Col6>
+        <Col7 name='Y座標'>22.72605</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>142</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>港嘴安檢所</Col3>
+        <Col4 name='郵遞區號'>83243</Col4>
+        <Col5 name='地址'>高雄市林園區港嘴二路201號</Col5>
+        <Col6 name='X座標'>120.38294</Col6>
+        <Col7 name='Y座標'>22.49266</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>143</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>汕尾漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>83244</Col4>
+        <Col5 name='地址'>高雄市林園區東汕里東汕路115號</Col5>
+        <Col6 name='X座標'>120.41383</Col6>
+        <Col7 name='Y座標'>22.47829</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>144</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>中芸安檢所</Col3>
+        <Col4 name='郵遞區號'>83244</Col4>
+        <Col5 name='地址'>高雄市林園區北汕里中正路42之4號</Col5>
+        <Col6 name='X座標'>120.39928</Col6>
+        <Col7 name='Y座標'>22.48173</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>145</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>東港安檢所</Col3>
+        <Col4 name='郵遞區號'>92844</Col4>
+        <Col5 name='地址'>屏東縣東港鎮朝安里新生一路71號</Col5>
+        <Col6 name='X座標'>120.43855</Col6>
+        <Col7 name='Y座標'>22.46608</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>146</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>鹽埔安檢所</Col3>
+        <Col4 name='郵遞區號'>93248</Col4>
+        <Col5 name='地址'>屏東縣新園鄉共和村新興路1號</Col5>
+        <Col6 name='X座標'>120.4346</Col6>
+        <Col7 name='Y座標'>22.4714</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>147</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>大鵬灣安檢所</Col3>
+        <Col4 name='郵遞區號'>92846</Col4>
+        <Col5 name='地址'>屏東縣東港鎮南平里南平路175-6號</Col5>
+        <Col6 name='X座標'>120.47816</Col6>
+        <Col7 name='Y座標'>22.43341</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>148</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>崎峰安檢所</Col3>
+        <Col4 name='郵遞區號'>92746</Col4>
+        <Col5 name='地址'>屏東縣林邊鄉崎峰村裕後路83之1號</Col5>
+        <Col6 name='X座標'>120.49038</Col6>
+        <Col7 name='Y座標'>22.42684</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>149</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>水利村漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>92745</Col4>
+        <Col5 name='地址'>屏東縣林邊鄉水利村豐作路1之12號</Col5>
+        <Col6 name='X座標'>120.51334</Col6>
+        <Col7 name='Y座標'>22.41881</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>150</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>小琉球漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>92941</Col4>
+        <Col5 name='地址'>屏東縣琉球鄉中福村1鄰三民路278號</Col5>
+        <Col6 name='X座標'>120.38351</Col6>
+        <Col7 name='Y座標'>22.35355</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>151</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>杉福漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>92942</Col4>
+        <Col5 name='地址'>屏東縣琉球鄉杉福村10鄰復興路29之3號</Col5>
+        <Col6 name='X座標'>120.36324</Col6>
+        <Col7 name='Y座標'>22.34149</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>152</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>琉球新漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>92942</Col4>
+        <Col5 name='地址'>屏東縣琉球鄉大福村仁愛路39號</Col5>
+        <Col6 name='X座標'>120.37434</Col6>
+        <Col7 name='Y座標'>22.33585</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>153</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>塭豐安檢所</Col3>
+        <Col4 name='郵遞區號'>93143</Col4>
+        <Col5 name='地址'>屏東縣佳冬鄉焰塭村北興路6-3號</Col5>
+        <Col6 name='X座標'>120.51975</Col6>
+        <Col7 name='Y座標'>22.41592</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>154</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>頂寮安檢所</Col3>
+        <Col4 name='郵遞區號'>93413</Col4>
+        <Col5 name='地址'>屏東縣佳冬鄉塭豐村南寮路501號</Col5>
+        <Col6 name='X座標'>120.52603</Col6>
+        <Col7 name='Y座標'>22.40878</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>155</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>下寮安檢所</Col3>
+        <Col4 name='郵遞區號'>94042</Col4>
+        <Col5 name='地址'>屏東縣枋寮鄉大庄村德聖路37號</Col5>
+        <Col6 name='X座標'>120.55589</Col6>
+        <Col7 name='Y座標'>22.39264</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>156</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>枋寮漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>94044</Col4>
+        <Col5 name='地址'>屏東縣枋山鄉保生村保生路437-2號</Col5>
+        <Col6 name='X座標'>120.59289</Col6>
+        <Col7 name='Y座標'>22.36403</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>157</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>第二機動巡邏站(加祿堂)</Col3>
+        <Col4 name='郵遞區號'>94145</Col4>
+        <Col5 name='地址'>屏東縣枋山鄉加祿村加祿路190-300號</Col5>
+        <Col6 name='X座標'>120.6217</Col6>
+        <Col7 name='Y座標'>22.33657</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>158</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>加祿堂安檢所</Col3>
+        <Col4 name='郵遞區號'>94145</Col4>
+        <Col5 name='地址'>屏東縣枋山鄉加祿村48號</Col5>
+        <Col6 name='X座標'>120.61705</Col6>
+        <Col7 name='Y座標'>22.33622</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>159</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>枋山安檢所</Col3>
+        <Col4 name='郵遞區號'>94150</Col4>
+        <Col5 name='地址'>屏東縣枋山鄉南和路17-1號</Col5>
+        <Col6 name='X座標'>120.64227</Col6>
+        <Col7 name='Y座標'>22.30246</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>160</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>楓港安檢所</Col3>
+        <Col4 name='郵遞區號'>94151</Col4>
+        <Col5 name='地址'>屏東縣枋山鄉善餘村下坪路37號</Col5>
+        <Col6 name='X座標'>120.69044</Col6>
+        <Col7 name='Y座標'>22.18791</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>161</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>第二機動巡邏站(社皆坑營區)</Col3>
+        <Col4 name='郵遞區號'>94443</Col4>
+        <Col5 name='地址'>屏東縣車城鄉海口村尖山路37之5號</Col5>
+        <Col6 name='X座標'>120.70538</Col6>
+        <Col7 name='Y座標'>22.1327</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>162</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>海口漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>94443</Col4>
+        <Col5 name='地址'>屏東縣車城鄉海口村海口路1號</Col5>
+        <Col6 name='X座標'>120.71579</Col6>
+        <Col7 name='Y座標'>22.0898</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>163</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>後灣漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>94450</Col4>
+        <Col5 name='地址'>屏東縣車城鄉後灣村1鄰後灣路26號</Col5>
+        <Col6 name='X座標'>120.69589</Col6>
+        <Col7 name='Y座標'>22.05835</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>164</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>第一機動巡邏站(恆春)</Col3>
+        <Col4 name='郵遞區號'>94641</Col4>
+        <Col5 name='地址'>屏東縣恆春鎮環城南路200號</Col5>
+        <Col6 name='X座標'>120.74842</Col6>
+        <Col7 name='Y座標'>22.00043</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>165</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>山海安檢所</Col3>
+        <Col4 name='郵遞區號'>94646</Col4>
+        <Col5 name='地址'>屏東縣恆春鎮山海里5鄰山海路11之5號</Col5>
+        <Col6 name='X座標'>120.71413</Col6>
+        <Col7 name='Y座標'>22.10017</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>166</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>紅柴坑安檢所</Col3>
+        <Col4 name='郵遞區號'>94645</Col4>
+        <Col5 name='地址'>屏東縣恆春鎮山海里13鄰紅柴路50號</Col5>
+        <Col6 name='X座標'>120.7162</Col6>
+        <Col7 name='Y座標'>21.97175</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>167</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>後壁湖安檢所</Col3>
+        <Col4 name='郵遞區號'>94645</Col4>
+        <Col5 name='地址'>屏東縣恆春鎮大光里後壁湖路96巷65號</Col5>
+        <Col6 name='X座標'>120.74571</Col6>
+        <Col7 name='Y座標'>21.94612</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>168</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>潭仔灣安檢所</Col3>
+        <Col4 name='郵遞區號'>94644</Col4>
+        <Col5 name='地址'>屏東縣恆春鎮墾丁里1鄰墾丁路638號</Col5>
+        <Col6 name='X座標'>120.77809</Col6>
+        <Col7 name='Y座標'>21.95101</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>169</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>香蕉灣安檢所</Col3>
+        <Col4 name='郵遞區號'>94644</Col4>
+        <Col5 name='地址'>屏東縣恆春鎮鵝鑾里4鄰船帆路253號</Col5>
+        <Col6 name='X座標'>120.83139</Col6>
+        <Col7 name='Y座標'>21.92597</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>170</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>鵝鑾鼻安檢所</Col3>
+        <Col4 name='郵遞區號'>94644</Col4>
+        <Col5 name='地址'>屏東縣恆春顉鵝鑾里1鄰鵝鑾路441號</Col5>
+        <Col6 name='X座標'>120.84846</Col6>
+        <Col7 name='Y座標'>21.90582</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>171</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>興海漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>94742</Col4>
+        <Col5 name='地址'>屏東縣滿州鄉港口村13鄰興海路106號</Col5>
+        <Col6 name='X座標'>120.8442</Col6>
+        <Col7 name='Y座標'>21.97556</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>172</Col1>
+        <Col2 name='地區'>海巡署南部分署</Col2>
+        <Col3 name='名稱'>旭海漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>94543</Col4>
+        <Col5 name='地址'>屏東縣牡丹鄉旭海村1鄰旭海路1-2號</Col5>
+        <Col6 name='X座標'>120.89236</Col6>
+        <Col7 name='Y座標'>22.19923</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>173</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>伽藍安檢所</Col3>
+        <Col4 name='郵遞區號'>95057</Col4>
+        <Col5 name='地址'>台東市富岡街299號</Col5>
+        <Col6 name='X座標'>121.19271</Col6>
+        <Col7 name='Y座標'>22.79209</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>174</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>三和安檢所</Col3>
+        <Col4 name='郵遞區號'>96343</Col4>
+        <Col5 name='地址'>台東縣太麻里鄉漁場83-2號</Col5>
+        <Col6 name='X座標'>121.0373</Col6>
+        <Col7 name='Y座標'>22.67165</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>175</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>美和安檢所</Col3>
+        <Col4 name='郵遞區號'>96343</Col4>
+        <Col5 name='地址'>台東縣太麻里鄉美和28之1號</Col5>
+        <Col6 name='X座標'>121.06025</Col6>
+        <Col7 name='Y座標'>22.68259</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>176</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>香蘭安檢所</Col3>
+        <Col4 name='郵遞區號'>96341</Col4>
+        <Col5 name='地址'>台東縣太麻里鄉新香蘭村12之2號</Col5>
+        <Col6 name='X座標'>120.99049</Col6>
+        <Col7 name='Y座標'>22.57599</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>177</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>大武安檢所</Col3>
+        <Col4 name='郵遞區號'>96541</Col4>
+        <Col5 name='地址'>台東縣大武鄉客庄66號</Col5>
+        <Col6 name='X座標'>120.89541</Col6>
+        <Col7 name='Y座標'>22.33936</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>178</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>綠島安檢所</Col3>
+        <Col4 name='郵遞區號'>95141</Col4>
+        <Col5 name='地址'>台東縣綠島鄉南寮村漁港路1之1號</Col5>
+        <Col6 name='X座標'>121.47586</Col6>
+        <Col7 name='Y座標'>22.65858</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>179</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>開元安檢所</Col3>
+        <Col4 name='郵遞區號'>95241</Col4>
+        <Col5 name='地址'>台東縣蘭嶼鄉椰油村296號</Col5>
+        <Col6 name='X座標'>121.50916</Col6>
+        <Col7 name='Y座標'>22.05842</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>180</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>新社安檢所</Col3>
+        <Col4 name='郵遞區號'>97791</Col4>
+        <Col5 name='地址'>花蓮縣豐濱鄉豐濱村17鄰小港1-1號</Col5>
+        <Col6 name='X座標'>121.52836</Col6>
+        <Col7 name='Y座標'>23.60515</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>181</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>石梯安檢所</Col3>
+        <Col4 name='郵遞區號'>97792</Col4>
+        <Col5 name='地址'>花蓮縣豐濱鄉石梯灣78號</Col5>
+        <Col6 name='X座標'>121.50855</Col6>
+        <Col7 name='Y座標'>23.50081</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>182</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>長濱安檢所</Col3>
+        <Col4 name='郵遞區號'>96241</Col4>
+        <Col5 name='地址'>台東縣長濱鄉長濱村181-2號</Col5>
+        <Col6 name='X座標'>121.45775</Col6>
+        <Col7 name='Y座標'>23.31413</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>183</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>小港安檢所</Col3>
+        <Col4 name='郵遞區號'>96141</Col4>
+        <Col5 name='地址'>台東縣成功鎮成廣43-2號</Col5>
+        <Col6 name='X座標'>121.40202</Col6>
+        <Col7 name='Y座標'>23.16041</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>184</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>新港安檢所</Col3>
+        <Col4 name='郵遞區號'>96143</Col4>
+        <Col5 name='地址'>台東縣成功鎮光復路1-3號</Col5>
+        <Col6 name='X座標'>121.38069</Col6>
+        <Col7 name='Y座標'>23.09848</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>185</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>金樽安檢所</Col3>
+        <Col4 name='郵遞區號'>95942</Col4>
+        <Col5 name='地址'>台東縣東河鄉金樽1號</Col5>
+        <Col6 name='X座標'>121.29365</Col6>
+        <Col7 name='Y座標'>22.95574</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>186</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>第一機動巡邏站(烏石鼻)</Col3>
+        <Col4 name='郵遞區號'>96242</Col4>
+        <Col5 name='地址'>臺東縣長濱鄉膽曼村50號</Col5>
+        <Col6 name='X座標'>121.41564</Col6>
+        <Col7 name='Y座標'>23.22595</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>187</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>第二機動巡邏站(興昌)</Col3>
+        <Col4 name='郵遞區號'>95942</Col4>
+        <Col5 name='地址'>臺東縣東河鄉興昌村10鄰56-1號</Col5>
+        <Col6 name='X座標'>121.24696</Col6>
+        <Col7 name='Y座標'>22.89549</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>188</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>第三機動巡邏站(三和)</Col3>
+        <Col4 name='郵遞區號'>95042</Col4>
+        <Col5 name='地址'>臺東縣太麻里鄉三和村1鄰漁場路81號</Col5>
+        <Col6 name='X座標'>121.03743</Col6>
+        <Col7 name='Y座標'>22.67169</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>189</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>崇德安檢所</Col3>
+        <Col4 name='郵遞區號'>97253</Col4>
+        <Col5 name='地址'>花蓮縣秀林鄉崇德村21號</Col5>
+        <Col6 name='X座標'>121.65732</Col6>
+        <Col7 name='Y座標'>24.16638</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>190</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>和平安檢所</Col3>
+        <Col4 name='郵遞區號'>97291</Col4>
+        <Col5 name='地址'>花蓮縣秀林鄉和平280號</Col5>
+        <Col6 name='X座標'>121.77004</Col6>
+        <Col7 name='Y座標'>24.30784</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>191</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>七星潭安檢所</Col3>
+        <Col4 name='郵遞區號'>97149</Col4>
+        <Col5 name='地址'>花蓮縣新城鄉大漢村七星街22號</Col5>
+        <Col6 name='X座標'>121.63099</Col6>
+        <Col7 name='Y座標'>24.0278</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>192</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>花蓮漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>97064</Col4>
+        <Col5 name='地址'>花蓮市民孝里港濱路41之1號</Col5>
+        <Col6 name='X座標'>121.63824</Col6>
+        <Col7 name='Y座標'>23.99586</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>193</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>花蓮商港安檢所</Col3>
+        <Col4 name='郵遞區號'>97041</Col4>
+        <Col5 name='地址'>花蓮市民孝里港口路27號</Col5>
+        <Col6 name='X座標'>121.63503</Col6>
+        <Col7 name='Y座標'>23.99992</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>194</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>鹽寮安檢所</Col3>
+        <Col4 name='郵遞區號'>97449</Col4>
+        <Col5 name='地址'>花蓮縣壽豐鄉鹽寮村橄樹腳46之1號</Col5>
+        <Col6 name='X座標'>121.58606</Col6>
+        <Col7 name='Y座標'>23.831</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>195</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>磯崎安檢所</Col3>
+        <Col4 name='郵遞區號'>97791</Col4>
+        <Col5 name='地址'>花蓮縣豐賓鄉磯崎村49之1號</Col5>
+        <Col6 name='X座標'>121.54745</Col6>
+        <Col7 name='Y座標'>23.70818</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>196</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>第一機動巡邏站(新社)</Col3>
+        <Col4 name='郵遞區號'>97792</Col4>
+        <Col5 name='地址'>花蓮縣豐濱鄉豐濱村17鄰小港1之1號</Col5>
+        <Col6 name='X座標'>121.31957</Col6>
+        <Col7 name='Y座標'>23.37757</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>197</Col1>
+        <Col2 name='地區'>海巡署東部分署</Col2>
+        <Col3 name='名稱'>第二機動巡邏站(沙東)</Col3>
+        <Col4 name='郵遞區號'>97151</Col4>
+        <Col5 name='地址'>花蓮縣新城鄉康樂村南三棧18鄰41之1號</Col5>
+        <Col6 name='X座標'>121.61898</Col6>
+        <Col7 name='Y座標'>24.09242</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>198</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>福澳安檢所</Col3>
+        <Col4 name='郵遞區號'>209</Col4>
+        <Col5 name='地址'>連江縣南竿鄉福澳村453號</Col5>
+        <Col6 name='X座標'>119.94416</Col6>
+        <Col7 name='Y座標'>26.16117</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>199</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>第一機動巡邏站(下腰山)</Col3>
+        <Col4 name='郵遞區號'>209</Col4>
+        <Col5 name='地址'>連江縣南竿鄉清水村9鄰137號</Col5>
+        <Col6 name='X座標'>119.93804</Col6>
+        <Col7 name='Y座標'>26.14839</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>200</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>白沙安檢所</Col3>
+        <Col4 name='郵遞區號'>210</Col4>
+        <Col5 name='地址'>連江縣北竿鄉白沙村72號</Col5>
+        <Col6 name='X座標'>119.96874</Col6>
+        <Col7 name='Y座標'>26.20629</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>201</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>第二機動巡邏站(橋仔安檢所)</Col3>
+        <Col4 name='郵遞區號'>210</Col4>
+        <Col5 name='地址'>連江縣北竿鄉橋仔村1號</Col5>
+        <Col6 name='X座標'>119.99825</Col6>
+        <Col7 name='Y座標'>26.22485</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>202</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>青帆安檢所</Col3>
+        <Col4 name='郵遞區號'>211</Col4>
+        <Col5 name='地址'>連江縣莒光鄉青帆村31-1號</Col5>
+        <Col6 name='X座標'>119.93714</Col6>
+        <Col7 name='Y座標'>25.96889</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>203</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>猛澳安檢所</Col3>
+        <Col4 name='郵遞區號'>211</Col4>
+        <Col5 name='地址'>連江縣莒光鄉大坪村91-1號</Col5>
+        <Col6 name='X座標'>119.97755</Col6>
+        <Col7 name='Y座標'>25.9574</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>204</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>中柱安檢所</Col3>
+        <Col4 name='郵遞區號'>212</Col4>
+        <Col5 name='地址'>連江縣東引鄉樂華村160-3號</Col5>
+        <Col6 name='X座標'>120.49467</Col6>
+        <Col7 name='Y座標'>26.36659</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>205</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>水頭商港安檢所</Col3>
+        <Col4 name='郵遞區號'>893</Col4>
+        <Col5 name='地址'>金門縣金城鎮西海路一段58號</Col5>
+        <Col6 name='X座標'>118.2916</Col6>
+        <Col7 name='Y座標'>24.43709</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>206</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>復國墩安檢所</Col3>
+        <Col4 name='郵遞區號'>891</Col4>
+        <Col5 name='地址'>金門縣金湖鎮溪湖里復國墩</Col5>
+        <Col6 name='X座標'>118.46683</Col6>
+        <Col7 name='Y座標'>24.44795</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>207</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>料羅商港安檢所</Col3>
+        <Col4 name='郵遞區號'>891</Col4>
+        <Col5 name='地址'>金門縣金湖鎮料羅港5號</Col5>
+        <Col6 name='X座標'>118.4285</Col6>
+        <Col7 name='Y座標'>24.40851</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>208</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>新湖安檢所</Col3>
+        <Col4 name='郵遞區號'>891</Col4>
+        <Col5 name='地址'>金門縣金湖鎮新湖漁港</Col5>
+        <Col6 name='X座標'>118.4101</Col6>
+        <Col7 name='Y座標'>24.43085</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>209</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>九宮安檢所</Col3>
+        <Col4 name='郵遞區號'>894</Col4>
+        <Col5 name='地址'>金門縣烈嶼鄉南塘1之27號</Col5>
+        <Col6 name='X座標'>118.24215</Col6>
+        <Col7 name='Y座標'>24.42637</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>210</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>第一機動巡邏站(五龍山)</Col3>
+        <Col4 name='郵遞區號'>890</Col4>
+        <Col5 name='地址'>金門縣金沙鎮官澳</Col5>
+        <Col6 name='X座標'>118.41</Col6>
+        <Col7 name='Y座標'>24.51639</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>211</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>第二機動巡邏站(湖下)</Col3>
+        <Col4 name='郵遞區號'>892</Col4>
+        <Col5 name='地址'>金門縣金寧鄉古寧村北山出海口</Col5>
+        <Col6 name='X座標'>118.30473</Col6>
+        <Col7 name='Y座標'>24.48618</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>212</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>第三機動巡邏站(精誠)</Col3>
+        <Col4 name='郵遞區號'>894</Col4>
+        <Col5 name='地址'>金門縣烈嶼鄉西口村湖井頭出海口</Col5>
+        <Col6 name='X座標'>118.23049</Col6>
+        <Col7 name='Y座標'>24.44542</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>213</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>烏坵漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>89641</Col4>
+        <Col5 name='地址'>金門縣烏坵鄉大坵村烏坵郵政91117號信箱</Col5>
+        <Col6 name='X座標'>119.4512</Col6>
+        <Col7 name='Y座標'>24.99492</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>214</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>菜園安檢所</Col3>
+        <Col4 name='郵遞區號'>88054</Col4>
+        <Col5 name='地址'>澎湖縣馬公市菜園里45-1號</Col5>
+        <Col6 name='X座標'>119.59476</Col6>
+        <Col7 name='Y座標'>23.55009</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>215</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>烏崁安檢所</Col3>
+        <Col4 name='郵遞區號'>88023</Col4>
+        <Col5 name='地址'>澎湖縣馬公市烏崁里65-5號</Col5>
+        <Col6 name='X座標'>119.62349</Col6>
+        <Col7 name='Y座標'>23.55331</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>216</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>鎖港安檢所</Col3>
+        <Col4 name='郵遞區號'>88055</Col4>
+        <Col5 name='地址'>澎湖縣馬公市鎖管港291號</Col5>
+        <Col6 name='X座標'>119.60151</Col6>
+        <Col7 name='Y座標'>23.54054</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>217</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>山水安檢所</Col3>
+        <Col4 name='郵遞區號'>880</Col4>
+        <Col5 name='地址'>澎湖縣馬公市山水里</Col5>
+        <Col6 name='X座標'>119.59595</Col6>
+        <Col7 name='Y座標'>23.51323</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>218</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>蒔裡前安檢所</Col3>
+        <Col4 name='郵遞區號'>88059</Col4>
+        <Col5 name='地址'>澎湖縣馬公市蒔裡里1-5號</Col5>
+        <Col6 name='X座標'>119.57277</Col6>
+        <Col7 name='Y座標'>23.53133</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>219</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>風櫃東安檢所</Col3>
+        <Col4 name='郵遞區號'>88058</Col4>
+        <Col5 name='地址'>澎湖縣馬公市風櫃里118-1號</Col5>
+        <Col6 name='X座標'>119.55029</Col6>
+        <Col7 name='Y座標'>23.54393</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>220</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>尖山安檢所</Col3>
+        <Col4 name='郵遞區號'>88543</Col4>
+        <Col5 name='地址'>澎湖縣湖西鄉尖山村16之4號</Col5>
+        <Col6 name='X座標'>119.66559</Col6>
+        <Col7 name='Y座標'>23.57025</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>221</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>龍門安檢所</Col3>
+        <Col4 name='郵遞區號'>88543</Col4>
+        <Col5 name='地址'>澎湖縣湖西鄉良文港119之39號</Col5>
+        <Col6 name='X座標'>119.6768</Col6>
+        <Col7 name='Y座標'>23.55952</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>222</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>果葉安檢所</Col3>
+        <Col4 name='郵遞區號'>88543</Col4>
+        <Col5 name='地址'>澎湖縣湖西鄉果葉村91-6號</Col5>
+        <Col6 name='X座標'>119.68059</Col6>
+        <Col7 name='Y座標'>23.5793</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>223</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>南北寮安檢所</Col3>
+        <Col4 name='郵遞區號'>88542</Col4>
+        <Col5 name='地址'>澎湖縣湖西鄉北寮村北寮50-9號</Col5>
+        <Col6 name='X座標'>119.66919</Col6>
+        <Col7 name='Y座標'>23.59832</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>224</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>紅蘿安檢所</Col3>
+        <Col4 name='郵遞區號'>88541</Col4>
+        <Col5 name='地址'>澎湖縣湖西鄉紅羅村130號</Col5>
+        <Col6 name='X座標'>119.637</Col6>
+        <Col7 name='Y座標'>23.6044</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>225</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>虎井安檢所</Col3>
+        <Col4 name='郵遞區號'>88057</Col4>
+        <Col5 name='地址'>澎湖縣馬公市虎井里76-5號</Col5>
+        <Col6 name='X座標'>119.51762</Col6>
+        <Col7 name='Y座標'>23.49335</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>226</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>桶盤安檢所</Col3>
+        <Col4 name='郵遞區號'>88060</Col4>
+        <Col5 name='地址'>澎湖縣馬公市桶盤29-1號</Col5>
+        <Col6 name='X座標'>119.51769</Col6>
+        <Col7 name='Y座標'>23.52208</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>227</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>潭門安檢所</Col3>
+        <Col4 name='郵遞區號'>88241</Col4>
+        <Col5 name='地址'>澎湖縣望安鄉東安村1號之6</Col5>
+        <Col6 name='X座標'>119.50812</Col6>
+        <Col7 name='Y座標'>23.36589</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>228</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>將軍南安檢所</Col3>
+        <Col4 name='郵遞區號'>88842</Col4>
+        <Col5 name='地址'>澎湖縣望安鄉將軍澳165號</Col5>
+        <Col6 name='X座標'>119.51937</Col6>
+        <Col7 name='Y座標'>23.36429</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>229</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>七美安檢所</Col3>
+        <Col4 name='郵遞區號'>88341</Col4>
+        <Col5 name='地址'>澎湖縣七美鄉南港村26-3號</Col5>
+        <Col6 name='X座標'>119.41911</Col6>
+        <Col7 name='Y座標'>23.19631</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>230</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>東吉安檢所</Col3>
+        <Col4 name='郵遞區號'>88243</Col4>
+        <Col5 name='地址'>澎湖縣望安鄉東吉村</Col5>
+        <Col6 name='X座標'>119.67212</Col6>
+        <Col7 name='Y座標'>23.27236</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>231</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>東嶼坪安檢所</Col3>
+        <Col4 name='郵遞區號'>88844</Col4>
+        <Col5 name='地址'>澎湖縣望安鄉東坪村47號</Col5>
+        <Col6 name='X座標'>119.51255</Col6>
+        <Col7 name='Y座標'>23.25703</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>232</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>花嶼安檢所</Col3>
+        <Col4 name='郵遞區號'>88846</Col4>
+        <Col5 name='地址'>澎湖縣望安鄉花嶼村110號</Col5>
+        <Col6 name='X座標'>119.30794</Col6>
+        <Col7 name='Y座標'>23.42233</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>233</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>沙港安檢所</Col3>
+        <Col4 name='郵遞區號'>88592</Col4>
+        <Col5 name='地址'>澎湖縣湖西鄉沙港村土地公前26號</Col5>
+        <Col6 name='X座標'>119.63074</Col6>
+        <Col7 name='Y座標'>23.60608</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>234</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>赤崁安檢所</Col3>
+        <Col4 name='郵遞區號'>88442</Col4>
+        <Col5 name='地址'>澎湖縣白沙鄉赤崁村22鄰37之3號</Col5>
+        <Col6 name='X座標'>119.60313</Col6>
+        <Col7 name='Y座標'>23.66854</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>235</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>岐頭安檢所</Col3>
+        <Col4 name='郵遞區號'>88442</Col4>
+        <Col5 name='地址'>澎湖縣白沙鄉岐頭村1鄰1之3號</Col5>
+        <Col6 name='X座標'>119.61032</Col6>
+        <Col7 name='Y座標'>23.64947</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>236</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>吉貝安檢所</Col3>
+        <Col4 name='郵遞區號'>88446</Col4>
+        <Col5 name='地址'>澎湖縣白沙鄉吉貝村2鄰吉貝8之14號</Col5>
+        <Col6 name='X座標'>119.61349</Col6>
+        <Col7 name='Y座標'>23.74132</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>237</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>鳥嶼安檢所</Col3>
+        <Col4 name='郵遞區號'>88443</Col4>
+        <Col5 name='地址'>澎湖縣白沙鄉鳥嶼村9鄰211號</Col5>
+        <Col6 name='X座標'>119.657</Col6>
+        <Col7 name='Y座標'>23.66085</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>238</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>大倉安檢所</Col3>
+        <Col4 name='郵遞區號'>88445</Col4>
+        <Col5 name='地址'>澎湖縣白沙鄉大倉村1鄰1號</Col5>
+        <Col6 name='X座標'>119.57083</Col6>
+        <Col7 name='Y座標'>23.62595</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>239</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>員貝安檢所</Col3>
+        <Col4 name='郵遞區號'>88444</Col4>
+        <Col5 name='地址'>澎湖縣白沙鄉員貝村6鄰22之3號</Col5>
+        <Col6 name='X座標'>119.634</Col6>
+        <Col7 name='Y座標'>23.65157</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>240</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>內垵北安檢所</Col3>
+        <Col4 name='郵遞區號'>88142</Col4>
+        <Col5 name='地址'>澎湖縣西嶼鄉內垵村18鄰227之15號</Col5>
+        <Col6 name='X座標'>119.50053</Col6>
+        <Col7 name='Y座標'>23.57587</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>241</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>大池安檢所</Col3>
+        <Col4 name='郵遞區號'>88141</Col4>
+        <Col5 name='地址'>澎湖縣西嶼鄉大池角8之6號</Col5>
+        <Col6 name='X座標'>119.50517</Col6>
+        <Col7 name='Y座標'>23.61818</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>242</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>赤馬安檢所</Col3>
+        <Col4 name='郵遞區號'>88142</Col4>
+        <Col5 name='地址'>澎湖縣西嶼鄉緝馬灣146之10號</Col5>
+        <Col6 name='X座標'>119.51174</Col6>
+        <Col7 name='Y座標'>23.5827</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>243</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>外垵安檢所</Col3>
+        <Col4 name='郵遞區號'>88143</Col4>
+        <Col5 name='地址'>澎湖縣西嶼鄉外垵村12鄰89之1號</Col5>
+        <Col6 name='X座標'>119.48489</Col6>
+        <Col7 name='Y座標'>23.57014</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>244</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>小門安檢所</Col3>
+        <Col4 name='郵遞區號'>88141</Col4>
+        <Col5 name='地址'>澎湖縣西嶼鄉小門村23號</Col5>
+        <Col6 name='X座標'>119.51869</Col6>
+        <Col7 name='Y座標'>23.65061</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>245</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>竹灣安檢所</Col3>
+        <Col4 name='郵遞區號'>88141</Col4>
+        <Col5 name='地址'>澎湖縣西嶼鄉竹篙灣村19鄰70之8號</Col5>
+        <Col6 name='X座標'>119.52297</Col6>
+        <Col7 name='Y座標'>23.63143</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>246</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>通梁安檢所</Col3>
+        <Col4 name='郵遞區號'>88141</Col4>
+        <Col5 name='地址'>澎湖縣白沙鄉通樑村39-6號</Col5>
+        <Col6 name='X座標'>119.55623</Col6>
+        <Col7 name='Y座標'>23.65864</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>247</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>內垵南安檢所</Col3>
+        <Col4 name='郵遞區號'>88142</Col4>
+        <Col5 name='地址'>澎湖縣西嶼鄉內垵村4鄰45之3號</Col5>
+        <Col6 name='X座標'>119.50138</Col6>
+        <Col7 name='Y座標'>23.56772</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>248</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>馬公漁港安檢所</Col3>
+        <Col4 name='郵遞區號'>880</Col4>
+        <Col5 name='地址'>澎湖縣馬公市大案山202號</Col5>
+        <Col6 name='X座標'>119.57357</Col6>
+        <Col7 name='Y座標'>23.56382</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>249</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>馬公商港安檢所</Col3>
+        <Col4 name='郵遞區號'>880</Col4>
+        <Col5 name='地址'>澎湖縣馬公市大案山202號</Col5>
+        <Col6 name='X座標'>119.57326</Col6>
+        <Col7 name='Y座標'>23.5639</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>250</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>西衛安檢所</Col3>
+        <Col4 name='郵遞區號'>880</Col4>
+        <Col5 name='地址'>澎湖縣馬公市西衛里157-9號</Col5>
+        <Col6 name='X座標'>119.5816</Col6>
+        <Col7 name='Y座標'>23.58873</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>251</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>第一機動巡邏站(講美)</Col3>
+        <Col4 name='郵遞區號'>881</Col4>
+        <Col5 name='地址'>澎湖縣白沙鄉講美村141之2號</Col5>
+        <Col6 name='X座標'>119.59579</Col6>
+        <Col7 name='Y座標'>23.63233</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>252</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>第二機動巡邏站(興仁)</Col3>
+        <Col4 name='郵遞區號'>880</Col4>
+        <Col5 name='地址'>澎湖縣馬公市興仁里雙頭掛1之30號</Col5>
+        <Col6 name='X座標'>119.61311</Col6>
+        <Col7 name='Y座標'>23.55475</Col7>
+    </row>
+    <row>
+        <Col1 name='項目'>253</Col1>
+        <Col2 name='地區'>海巡署金馬澎分署</Col2>
+        <Col3 name='名稱'>第三機動巡邏站(鎖港)</Col3>
+        <Col4 name='郵遞區號'>880</Col4>
+        <Col5 name='地址'>澎湖縣馬公市鎖港里291號</Col5>
+        <Col6 name='X座標'>119.60548</Col6>
+        <Col7 name='Y座標'>23.52806</Col7>
+    </row>
+</table>
