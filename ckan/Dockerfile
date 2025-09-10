@@ -3,7 +3,7 @@ FROM depositar/ckan-base:release-data-depositar-io-py3.10
 # Install any extensions needed by your CKAN instance
 # See Dockerfile.dev for more details and examples
 
-ENV CKAN__PLUGINS="activity dcat depositar_iso639 data_depositario depositar_theme_rep_str depositar_theme ark citation wikidatakeyword showcase dcat_json_interface structured_data stats datastore resource_proxy datapusher_plus datatables_view recline_view text_view image_view webpage_view recline_grid_view recline_map_view audio_view video_view pdf_view spatial_metadata spatial_query geo_view geojson_view wmts_view shp_view scheming_datasets envvars"
+ENV CKAN__PLUGINS="activity dcat depositar_iso639 data_depositario datapackager depositar_theme_rep_str depositar_theme ark citation wikidatakeyword showcase dcat_json_interface structured_data stats datastore resource_proxy datapusher_plus datatables_view recline_view text_view image_view webpage_view recline_grid_view recline_map_view audio_view video_view pdf_view spatial_metadata spatial_query geo_view geojson_view wmts_view shp_view scheming_datasets envvars"
 
 USER root
 
@@ -12,12 +12,13 @@ RUN mkdir /srv/app/.local && chown ckan /srv/app/.local
 
 USER ckan
 
-RUN pip3 install -e git+https://github.com/depositar/ckanext-data-depositario.git#egg=ckanext-data-depositario && \
+RUN pip3 install -e git+https://github.com/depositar/ckanext-data-depositario.git@dp-support#egg=ckanext-data-depositario && \
     pip3 install -r ${SRC_DIR}/ckanext-data-depositario/requirements.txt && \
     # Install other required extesions
     pip3 install -r ${SRC_DIR}/ckanext-spatial/pip-requirements.txt && \
     pip3 install -r ${SRC_DIR}/ckanext-dcat/requirements.txt && \
     pip3 install -r ${SRC_DIR}/datapusher-plus/requirements.txt && \
+    pip3 install -r ${SRC_DIR}/ckanext-datapackager/requirements.txt && \
     # Update CKAN config
     ckan config-tool ${CKAN_INI} -f ${SRC_DIR}/ckanext-data-depositario/config/custom_options.ini && \
     ckan config-tool ${CKAN_INI} "ckan.plugins = ${CKAN__PLUGINS}" && \
