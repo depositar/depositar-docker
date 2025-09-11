@@ -1,3 +1,25 @@
+# Copy the qsvdp executable based on the architecture
+FROM alpine:latest AS qsvdp-builder
+
+ARG TARGETARCH
+
+COPY bin /tmp/bin
+
+RUN case "$TARGETARCH" in \
+  "amd64") \
+    echo "Building for amd64"; \
+    cp /tmp/bin/amd64/qsvdp /usr/local/bin/qsvdp; \
+    ;; \
+  "arm64") \
+    echo "Building for arm64"; \
+    cp /tmp/bin/arm64/qsvdp /usr/local/bin/qsvdp; \
+    ;; \
+  *) \
+    echo "Unsupported architecture: $TARGETARCH"; \
+    exit 1; \
+    ;; \
+esac
+
 FROM depositar/ckan-base:release-data-depositar-io-py3.10
 
 # Install any extensions needed by your CKAN instance
@@ -35,7 +57,7 @@ RUN chown ckan:ckan-sys ${CKAN_INI}
 
 # Copy qsv 0.138.0 and Supervisor configuration for datapusher-plus
 RUN apt-get install --no-install-recommends -y uchardet
-COPY --chown=ckan-sys:ckan-sys qsvdp /usr/local/bin
+COPY --from=qsvdp-builder --chown=ckan-sys:ckan-sys /usr/local/bin/qsvdp /usr/local/bin
 COPY setup/supervisor-ckan-worker.conf /etc/supervisord.d
 
 # Copy custom initialization scripts
