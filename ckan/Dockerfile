@@ -43,9 +43,7 @@ RUN pip3 install -e git+https://github.com/depositar/ckanext-data-depositario.gi
     # Update CKAN config
     ckan config-tool ${CKAN_INI} -f ${SRC_DIR}/ckanext-data-depositario/config/custom_options.ini && \
     ckan config-tool ${CKAN_INI} "ckan.plugins = ${CKAN__PLUGINS}" && \
-    ckan config-tool ${CKAN_INI} "licenses_group_url = file://${SRC_DIR}/ckanext-data-depositario/ckanext/data_depositario/public/license_list.json" && \
-    ckan config-tool ${CKAN_INI} "ckan.auth.create_unowned_dataset = false" && \
-    ckan config-tool ${CKAN_INI} "ckan.auth.create_dataset_if_not_in_organization = false"
+    ckan config-tool ${CKAN_INI} "licenses_group_url = file://${SRC_DIR}/ckanext-data-depositario/ckanext/data_depositario/public/license_list.json"
 
 # sed needs to create a temp file
 USER ckan-sys
