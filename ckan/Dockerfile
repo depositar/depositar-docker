@@ -25,7 +25,7 @@ FROM depositar/ckan-base:release-data-depositar-io-py3.10
 # Install any extensions needed by your CKAN instance
 # See Dockerfile.dev for more details and examples
 
-ENV CKAN__PLUGINS="activity dcat depositar_iso639 data_depositario datapackager depositar_theme_rep_str depositar_theme ark citation wikidatakeyword showcase dcat_json_interface structured_data stats datastore resource_proxy datapusher_plus datatables_view recline_view text_view image_view webpage_view recline_grid_view recline_map_view audio_view video_view pdf_view spatial_metadata spatial_query geo_view geojson_view wmts_view shp_view scheming_datasets envvars"
+ENV CKAN__PLUGINS="activity dcat depositar_iso639 data_depositario depositar_theme_rep_str depositar_theme ark datapackager citation wikidatakeyword showcase dcat_json_interface structured_data stats datastore resource_proxy datapusher_plus datatables_view recline_view text_view image_view webpage_view recline_grid_view recline_map_view audio_view video_view pdf_view spatial_metadata spatial_query geo_view geojson_view wmts_view shp_view scheming_datasets envvars"
 
 USER root
 
