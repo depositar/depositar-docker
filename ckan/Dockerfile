@@ -34,7 +34,7 @@ RUN mkdir /srv/app/.local && chown ckan /srv/app/.local
 
 USER ckan
 
-RUN pip3 install -e git+https://github.com/depositar/ckanext-data-depositario.git@dp-support#egg=ckanext-data-depositario && \
+RUN pip3 install -e git+https://github.com/depositar/ckanext-data-depositario.git#egg=ckanext-data-depositario && \
     pip3 install -r ${SRC_DIR}/ckanext-data-depositario/requirements.txt && \
     # Install other required extesions
     pip3 install -r ${SRC_DIR}/ckanext-spatial/pip-requirements.txt && \
